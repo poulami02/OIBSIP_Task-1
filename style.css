@@ -1,0 +1,82 @@
+body
+{
+	 background-image: url('https://images.unsplash.com/photo-1595113229230-5f285a65dd18?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
+}
+.navbar
+{
+	background-color: tomato;
+	border-radius: 25px;
+	margin: 10px 10px;
+}
+.navbar li
+{
+	float: left;
+	list-style: none;
+	margin: 10px 15px;
+}
+.navbar li a
+{
+	text-decoration: none;
+	padding: 6px 7px;
+	color: white;
+	font-size: 20px;
+}
+div .search
+{
+    float: right;
+}
+
+.navbar li select{
+	background-color: tomato;
+	color:white;
+	border:tomato;
+	height: 30px;
+	font-size: 20px;
+}
+.search{
+    padding: 17px 15px;
+}
+.search input
+{
+    height: 25px;
+    padding-left: 10px;
+}
+.search button{
+	border-radius: 35px;
+	border:3px solid black;
+}
+.container
+{
+	background-color: wheat;
+	opacity: 0.7;
+	margin-left: 250px;
+    margin-top: 200px;
+    border: 5px solid black;
+    width: 970px;
+    padding: 15px;
+    border-radius: 25px;
+    color:black;
+	font-size: 80px;
+}
+h1{
+	margin-left: 30px;
+	margin-top: 200px;
+	color:blanchedalmond;
+}
+.image-fluid{
+	height: 200px;
+	width: 300px;
+	border: solid black 10px;
+}
+h2{
+	color:white;
+	margin-left: 20px;
+}
+button{
+	background-color:yellow;
+	border:solid black 5px;
+}
